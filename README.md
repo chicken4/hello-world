@@ -1,2 +1,3 @@
 # hello-world
-rep_1
+
+Description: Testing out the features of GitHub.
